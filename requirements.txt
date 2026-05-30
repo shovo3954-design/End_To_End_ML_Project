@@ -9,3 +9,5 @@ streamlit
 seaborn
 imblearn
 matplotlib
+setuptools
+-e .
